@@ -1,4 +1,4 @@
-<div >
+<div align="center">
 
 <!--- ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vasilev17&data=followers,repositories,commits&theme=dark_magic_girl) --->
 
