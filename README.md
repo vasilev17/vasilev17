@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Valentin%20Vasilev&fontSize=55&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Valentin%20Vasilev&fontSize=55&fontColor=#FFFFFF)
 
 <!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Hi%2C+I'm+Valentin+Vasilev;Software+developer+based+in+Sofia%2C+Bulgaria) --->
 
