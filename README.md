@@ -1,8 +1,8 @@
-<div align="center">
+<div >
 
 <!--- ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vasilev17&data=followers,repositories,commits&theme=dark_magic_girl) --->
 
-<!--- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Valentin%20Vasilev&fontSize=55&fontColor=#FFFFFF) --->
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=Valentin%20Vasilev&fontSize=55&fontColor=#FFFFFF) 
 
 <!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Hi%2C+I'm+Valentin+Vasilev;Software+developer+based+in+Sofia%2C+Bulgaria) --->
 
@@ -10,13 +10,6 @@
 
 
 
- 👋 Hi, I’m Valentin Vasilev (@vasilev17) <br>
- 👀 I’m interested in all kinds of programming <br>
- 🌱 I’m currently learning front end languages <br>
- 💞️ I’m looking to collaborate on any type of interesting coding projects <br>
- 📫 How to reach me: valio_vv@abv.bg
-
-<br>
 
 
 
@@ -35,7 +28,7 @@
 
 
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasilev17&theme=react-dark&point=00000000)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasilev17&theme=react-dark)
 
 <a href="https://www.linkedin.com/in/valentin-vasilev-38ab39294/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="38px" />
