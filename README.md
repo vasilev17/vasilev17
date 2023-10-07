@@ -20,7 +20,7 @@
 
   ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vasilev17)
 &nbsp; &nbsp; &nbsp; &nbsp;
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&border_radius=10&card_width=500)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&border_radius=10&card_width=350)
 
 
 
