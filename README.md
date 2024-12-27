@@ -11,7 +11,7 @@
 
   ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vasilev17)
 &nbsp; &nbsp; &nbsp; &nbsp;
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&border_radius=10&hide_border=true&card_width=450)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450)
 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilev17&layout=compact&langs_count=15) --->
