@@ -21,7 +21,7 @@
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasilev17&theme=react-dark)
 
 <a href="https://www.linkedin.com/in/valentin-vasilev-38ab39294/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="38px" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="45px" />
 </a>
 
 
