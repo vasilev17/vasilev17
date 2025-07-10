@@ -30,10 +30,4 @@
 <!--- ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vasilev17&data=followers,repositories,stars,commits&theme=nautilus) --->
 
 
-
 </div>
-
-<!---
-vasilev17/vasilev17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
