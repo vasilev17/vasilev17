@@ -6,7 +6,7 @@
 
 <!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Hi%2C+I'm+Valentin+Vasilev;Software+developer+based+in+Sofia%2C+Bulgaria) --->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vasilev17&column=9&margin-w=5&margin-h=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=vasilev17&column=9&margin-w=5&margin-h=5&title=-Reviews)
 
 
   ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vasilev17)
