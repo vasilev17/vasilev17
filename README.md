@@ -9,9 +9,11 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=vasilev17&column=9&margin-w=5&margin-h=5&title=-Reviews)
 
 
-  ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vasilev17)
-&nbsp; &nbsp; &nbsp; &nbsp;
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450)
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=vasilev17" alt="Contribution Stats" height="200">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" height="200">
+</p>
 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilev17&layout=compact&langs_count=15) --->
