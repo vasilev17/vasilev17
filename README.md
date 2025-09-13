@@ -6,19 +6,21 @@
 
 <!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Hi%2C+I'm+Valentin+Vasilev;Software+developer+based+in+Sofia%2C+Bulgaria) --->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vasilev17&column=9&margin-w=5&margin-h=5&title=-Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=vasilev17&column=5&margin-w=5&margin-h=5&title=-Reviews&rank=-C,-?)
 
 
-  ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vasilev17)
-&nbsp; &nbsp; &nbsp; &nbsp;
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450)
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=vasilev17" alt="Contribution Stats" height="200">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" height="200">
+</p>
 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilev17&layout=compact&langs_count=15) --->
 
 
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasilev17&theme=react-dark)
+<!--- ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasilev17&theme=react-dark) --->
 
 <a href="https://www.linkedin.com/in/valentin-vasilev-38ab39294/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="45px" />
