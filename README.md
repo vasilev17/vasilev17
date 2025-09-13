@@ -6,18 +6,16 @@
 
 <!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Hi%2C+I'm+Valentin+Vasilev;Software+developer+based+in+Sofia%2C+Bulgaria) --->
 
-<p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=vasilev17&column=5&margin-w=5&margin-h=5&title=-Reviews&rank=-C,-?" 
+    src="https://github-profile-trophy.vercel.app/?username=vasilev17&column=9&margin-w=5&margin-h=5&title=-Reviews" 
     alt="GitHub Trophies" 
     height="100"
   />
-</p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=vasilev17" alt="Contribution Stats" height="200">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=vasilev17" alt="Contribution Stats" height="210">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasilev17&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" width="470">
 </p>
 
 
