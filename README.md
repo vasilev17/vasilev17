@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/valentin-vasilev1/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="45px" />
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" width="150px" height="45px" />
 </a>
 
 
